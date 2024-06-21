@@ -1,0 +1,27 @@
+e-commerce-platform/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── CONTRIBUTING.md
+├── package.json
+├── client/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── services/
+│       ├── styles/
+│       ├── App.js
+│       └── index.js
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   └── server.js
+├── docs/
+│   └── INSTALL.md
+└── tests/
+    ├── client/
+    └── server/
